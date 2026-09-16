@@ -1,0 +1,20 @@
+{
+  "id": "bb0a7e5d7",
+  "name": "Lucy data 20 siklus",
+  "command": "node collect_lucy_data.mjs 20",
+  "description": "Kirim lh/lb/lucy sebanyak 20 siklus (cooldown 0.1s/0.1s/15s sesuai rpg.py), simpan semua pesan baru dari Lucy ke lucy_collect.jsonl.",
+  "status": "failed",
+  "outputPath": ".pi\\tasks\\session-2964-2964\\bb0a7e5d7.output",
+  "cwd": "C:\\FAI\\ultr",
+  "startTime": 1788655402197,
+  "endTime": 1788655402347,
+  "exitCode": 1,
+  "signal": null,
+  "pid": 7412,
+  "bytesWritten": 457,
+  "isAgent": false,
+  "error": "Exited with code 1",
+  "notified": true,
+  "notifyOnCompletion": true,
+  "triggerOnCompletion": true
+}
